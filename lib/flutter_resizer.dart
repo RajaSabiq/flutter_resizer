@@ -2,8 +2,6 @@ library flutter_resizer;
 
 import 'package:flutter/material.dart';
 
-import 'package:flutter/material.dart';
-
 class SizeConfig {
   static double? screenWidth;
   static double? screenHeight;

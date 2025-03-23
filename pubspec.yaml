@@ -1,7 +1,12 @@
 name: flutter_resizer
-description: "A new Flutter package project."
+description: >
+  Flutter Resizer is a lightweight and efficient package for handling responsive UI scaling 
+  in Flutter applications. It simplifies adapting text sizes, widths, heights, and pixel ratios 
+  dynamically based on different screen sizes and devices. With built-in extension methods, 
+  it offers an easy way to make your UI fully responsive.
+
 version: 0.0.1
-homepage:
+repository: https://github.com/RajaSabiq/flutter_resizer.git
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
