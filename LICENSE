@@ -1,0 +1,26 @@
+
+---
+
+### Key Points in the `README.md`:
+1. **Features**: Highlights the key features of the package.
+2. **Installation**: Provides instructions for adding the package to your project.
+3. **Usage**: Explains how to initialize `SizeConfig` and use its features.
+4. **Example**: Links to an example for reference.
+5. **Contributing**: Encourages contributions.
+6. **License**: Specifies the license.
+
+---
+
+### Folder Structure
+
+Ensure your project has the following structure:
+flutter_resizer/
+lib/
+flutter_resizer.dart
+example/
+lib/
+main.dart
+test/
+flutter_resizer_test.dart
+README.md
+pubspec.yaml
